@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My blog</title>
+    <link>http://localhost:57633/</link>
+    <description>Recent content on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:57633/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:57633/archives/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:57633/english/archives/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chứng Chỉ</title>
+      <link>http://localhost:57633/certifications/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/certifications/</guid>
+      
+        <description>Hugo Certifications</description>
+      
+    </item>
+    
+    <item>
+      <title>Chứng Chỉ</title>
+      <link>http://localhost:57633/english/certifications/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/certifications/</guid>
+      
+        <description>Hugo Certifications</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:57633/contact/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:57633/english/contact/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>Các Kiểu Dữ Liệu trong Java</title>
+      <link>http://localhost:57633/english/post/kieudulieu/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/kieudulieu/</guid>
+      
+        <description>Tìm hiểu về các kiểu dữ liệu cơ bản và nâng cao trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Các Kiểu Dữ Liệu trong Java</title>
+      <link>http://localhost:57633/post/kieudulieu/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/kieudulieu/</guid>
+      
+        <description>Tìm hiểu về các kiểu dữ liệu cơ bản và nâng cao trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Đa luồng trong Java</title>
+      <link>http://localhost:57633/english/post/daluongjava/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/daluongjava/</guid>
+      
+        <description>Hướng dẫn toàn diện về đa luồng trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Đa luồng trong Java</title>
+      <link>http://localhost:57633/post/daluongjava/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/daluongjava/</guid>
+      
+        <description>Hướng dẫn toàn diện về đa luồng trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Đa luồng trong Java</title>
+      <link>http://localhost:57633/english/post/framework/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/framework/</guid>
+      
+        <description>Hướng dẫn toàn diện về đa luồng trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Đa luồng trong Java</title>
+      <link>http://localhost:57633/post/framework/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/framework/</guid>
+      
+        <description>Hướng dẫn toàn diện về đa luồng trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Lập trình Hướng đối tượng trong Java</title>
+      <link>http://localhost:57633/english/post/shortcode/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/shortcode/</guid>
+      
+        <description>Hướng dẫn cơ bản về lập trình hướng đối tượng trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Lập trình Hướng đối tượng trong Java</title>
+      <link>http://localhost:57633/post/shortcode/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/shortcode/</guid>
+      
+        <description>Hướng dẫn cơ bản về lập trình hướng đối tượng trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Hướng dẫn cơ bản về Xử lý Ngoại lệ trong Java</title>
+      <link>http://localhost:57633/english/post/ngoaile/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/ngoaile/</guid>
+      
+        <description>Tìm hiểu cách xử lý ngoại lệ trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Hướng dẫn cơ bản về Xử lý Ngoại lệ trong Java</title>
+      <link>http://localhost:57633/post/ngoaile/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/ngoaile/</guid>
+      
+        <description>Tìm hiểu cách xử lý ngoại lệ trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Khám Phá Các Kiểu Dữ Liệu trong Java</title>
+      <link>http://localhost:57633/english/post/gioithieu/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/gioithieu/</guid>
+      
+        <description>Hướng dẫn chi tiết về các kiểu dữ liệu trong Java và cách sử dụng chúng.</description>
+      
+    </item>
+    
+    <item>
+      <title>Khám Phá Các Kiểu Dữ Liệu trong Java</title>
+      <link>http://localhost:57633/post/gioithieu/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/gioithieu/</guid>
+      
+        <description>Hướng dẫn chi tiết về các kiểu dữ liệu trong Java và cách sử dụng chúng.</description>
+      
+    </item>
+    
+    <item>
+      <title>Khám Phá Stream API Trong Java 8</title>
+      <link>http://localhost:57633/english/post/khampha/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/khampha/</guid>
+      
+        <description>Hướng dẫn toàn diện về Stream API và cách sử dụng để xử lý dữ liệu hiệu quả trong Java.</description>
+      
+    </item>
+    
+    <item>
+      <title>Khám Phá Stream API Trong Java 8</title>
+      <link>http://localhost:57633/post/khampha/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/khampha/</guid>
+      
+        <description>Hướng dẫn toàn diện về Stream API và cách sử dụng để xử lý dữ liệu hiệu quả trong Java.</description>
+      
+    </item>
+    
+    <item>
+      <title>Làm Việc Với Biểu Thức Lambda Trong Java</title>
+      <link>http://localhost:57633/english/post/lamviec/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/lamviec/</guid>
+      
+        <description>Hướng dẫn chi tiết về biểu thức Lambda và cách áp dụng chúng trong Java.</description>
+      
+    </item>
+    
+    <item>
+      <title>Làm Việc Với Biểu Thức Lambda Trong Java</title>
+      <link>http://localhost:57633/post/lamviec/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/lamviec/</guid>
+      
+        <description>Hướng dẫn chi tiết về biểu thức Lambda và cách áp dụng chúng trong Java.</description>
+      
+    </item>
+    
+    <item>
+      <title>Tìm Hiểu Về Lập Trình Tổng Quát (Generics) Trong Java</title>
+      <link>http://localhost:57633/english/post/laptrinhtongquat/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/laptrinhtongquat/</guid>
+      
+        <description>Hướng dẫn chi tiết về Generics trong Java và cách sử dụng để tạo mã nguồn linh hoạt và an toàn.</description>
+      
+    </item>
+    
+    <item>
+      <title>Tìm Hiểu Về Lập Trình Tổng Quát (Generics) Trong Java</title>
+      <link>http://localhost:57633/post/laptrinhtongquat/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/laptrinhtongquat/</guid>
+      
+        <description>Hướng dẫn chi tiết về Generics trong Java và cách sử dụng để tạo mã nguồn linh hoạt và an toàn.</description>
+      
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>http://localhost:57633/awards/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/awards/</guid>
+      
+        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+      
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>http://localhost:57633/english/awards/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/awards/</guid>
+      
+        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:57633/arabic/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/arabic/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>للتواصل</title>
+      <link>http://localhost:57633/arabic/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/arabic/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>نموذج عربي</title>
+      <link>http://localhost:57633/arabic/post/arabic_example/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/arabic/post/arabic_example/</guid>
+      
+        <description>نص عربي سريع</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về bản thân</title>
+      <link>http://localhost:57633/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/about/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về bản thân</title>
+      <link>http://localhost:57633/english/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/about/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+    <item>
+      <title>حول</title>
+      <link>http://localhost:57633/arabic/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/arabic/about/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:57633/english/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/imprint/</guid>
+      
+        <description><h1 id="trần-tiến-đạt">Trần Tiến Đạt</h1>
+<p>Thông tin tác của tác giả đã làm ra app</p></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:57633/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/imprint/</guid>
+      
+        <description><h1 id="trần-tiến-đạt">Trần Tiến Đạt</h1>
+<p>Thông tin tác của tác giả đã làm ra app</p></description>
+      
+    </item>
+    
+  </channel>
+</rss>

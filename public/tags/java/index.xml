@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on My blog</title>
+    <link>http://localhost:57633/tags/java/</link>
+    <description>Recent content in Java on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:57633/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Các Kiểu Dữ Liệu trong Java</title>
+      <link>http://localhost:57633/english/post/kieudulieu/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/kieudulieu/</guid>
+      
+        <description>Tìm hiểu về các kiểu dữ liệu cơ bản và nâng cao trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Các Kiểu Dữ Liệu trong Java</title>
+      <link>http://localhost:57633/post/kieudulieu/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/kieudulieu/</guid>
+      
+        <description>Tìm hiểu về các kiểu dữ liệu cơ bản và nâng cao trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Đa luồng trong Java</title>
+      <link>http://localhost:57633/english/post/daluongjava/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/daluongjava/</guid>
+      
+        <description>Hướng dẫn toàn diện về đa luồng trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Đa luồng trong Java</title>
+      <link>http://localhost:57633/post/daluongjava/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/daluongjava/</guid>
+      
+        <description>Hướng dẫn toàn diện về đa luồng trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Đa luồng trong Java</title>
+      <link>http://localhost:57633/english/post/framework/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/framework/</guid>
+      
+        <description>Hướng dẫn toàn diện về đa luồng trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Đa luồng trong Java</title>
+      <link>http://localhost:57633/post/framework/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/framework/</guid>
+      
+        <description>Hướng dẫn toàn diện về đa luồng trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Lập trình Hướng đối tượng trong Java</title>
+      <link>http://localhost:57633/english/post/shortcode/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/shortcode/</guid>
+      
+        <description>Hướng dẫn cơ bản về lập trình hướng đối tượng trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Lập trình Hướng đối tượng trong Java</title>
+      <link>http://localhost:57633/post/shortcode/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/shortcode/</guid>
+      
+        <description>Hướng dẫn cơ bản về lập trình hướng đối tượng trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Hướng dẫn cơ bản về Xử lý Ngoại lệ trong Java</title>
+      <link>http://localhost:57633/english/post/ngoaile/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/ngoaile/</guid>
+      
+        <description>Tìm hiểu cách xử lý ngoại lệ trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Hướng dẫn cơ bản về Xử lý Ngoại lệ trong Java</title>
+      <link>http://localhost:57633/post/ngoaile/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/ngoaile/</guid>
+      
+        <description>Tìm hiểu cách xử lý ngoại lệ trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Khám Phá Các Kiểu Dữ Liệu trong Java</title>
+      <link>http://localhost:57633/english/post/gioithieu/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/gioithieu/</guid>
+      
+        <description>Hướng dẫn chi tiết về các kiểu dữ liệu trong Java và cách sử dụng chúng.</description>
+      
+    </item>
+    
+    <item>
+      <title>Khám Phá Các Kiểu Dữ Liệu trong Java</title>
+      <link>http://localhost:57633/post/gioithieu/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/gioithieu/</guid>
+      
+        <description>Hướng dẫn chi tiết về các kiểu dữ liệu trong Java và cách sử dụng chúng.</description>
+      
+    </item>
+    
+    <item>
+      <title>Khám Phá Stream API Trong Java 8</title>
+      <link>http://localhost:57633/english/post/khampha/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/khampha/</guid>
+      
+        <description>Hướng dẫn toàn diện về Stream API và cách sử dụng để xử lý dữ liệu hiệu quả trong Java.</description>
+      
+    </item>
+    
+    <item>
+      <title>Khám Phá Stream API Trong Java 8</title>
+      <link>http://localhost:57633/post/khampha/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/khampha/</guid>
+      
+        <description>Hướng dẫn toàn diện về Stream API và cách sử dụng để xử lý dữ liệu hiệu quả trong Java.</description>
+      
+    </item>
+    
+    <item>
+      <title>Làm Việc Với Biểu Thức Lambda Trong Java</title>
+      <link>http://localhost:57633/english/post/lamviec/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/lamviec/</guid>
+      
+        <description>Hướng dẫn chi tiết về biểu thức Lambda và cách áp dụng chúng trong Java.</description>
+      
+    </item>
+    
+    <item>
+      <title>Làm Việc Với Biểu Thức Lambda Trong Java</title>
+      <link>http://localhost:57633/post/lamviec/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/lamviec/</guid>
+      
+        <description>Hướng dẫn chi tiết về biểu thức Lambda và cách áp dụng chúng trong Java.</description>
+      
+    </item>
+    
+    <item>
+      <title>Tìm Hiểu Về Lập Trình Tổng Quát (Generics) Trong Java</title>
+      <link>http://localhost:57633/english/post/laptrinhtongquat/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/english/post/laptrinhtongquat/</guid>
+      
+        <description>Hướng dẫn chi tiết về Generics trong Java và cách sử dụng để tạo mã nguồn linh hoạt và an toàn.</description>
+      
+    </item>
+    
+    <item>
+      <title>Tìm Hiểu Về Lập Trình Tổng Quát (Generics) Trong Java</title>
+      <link>http://localhost:57633/post/laptrinhtongquat/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57633/post/laptrinhtongquat/</guid>
+      
+        <description>Hướng dẫn chi tiết về Generics trong Java và cách sử dụng để tạo mã nguồn linh hoạt và an toàn.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

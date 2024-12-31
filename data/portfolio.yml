@@ -1,0 +1,41 @@
+portfolioitems:
+  # portfolio category
+  - title: Dự án cá nhân
+    description: 'Tất cả dự án lập trình của tôi'
+    portfolioitem:
+      - name: Quản Lý SV5T
+        image: 'images/portfolio/doanCoSo.jpg'
+        description: 'Dự án "Website Quản Lý Sinh Viên 5 Tốt" sử dụng nền tảng quản lý tiên tiến, giúp theo dõi và đánh giá sự phát triển toàn diện của sinh viên dựa trên các tiêu chí "5 Tốt". Đây là một công cụ hiệu quả cho các trường học, giảng viên và các tổ chức giáo dục, giúp quản lý và nâng cao chất lượng đào tạo của sinh viên.
+
+Website này sẽ cung cấp các tính năng để đánh giá và ghi nhận các yếu tố như học lực, đạo đức, thể chất, tình nguyện và kỹ năng mềm của sinh viên. Hệ thống có thể lưu trữ và theo dõi kết quả học tập, hoạt động ngoại khóa, đóng góp cộng đồng, và các hoạt động phát triển cá nhân khác. Đồng thời, tính năng báo cáo và phân tích sẽ giúp giảng viên và các quản lý có cái nhìn tổng quan về sự tiến bộ và các lĩnh vực cần cải thiện của từng sinh viên.
+
+Dự án này không chỉ hỗ trợ sinh viên trong việc phát triển toàn diện mà còn giúp các giảng viên và tổ chức giáo dục đưa ra các quyết định đúng đắn trong quá trình đào tạo và phát triển sinh viên, thúc đẩy môi trường học tập lành mạnh và hiệu quả.'
+        tags:
+          - SV5T
+          - Sinh Viên 5 Tốt
+        status: 'Quản lý'
+        start: '2023'
+        end: '2024'
+        authors:
+          - Trần Tiến Đạt
+          - Trần Phát Đạt
+          - Huỳnh Trung Nguyên
+      - name: Website elearning
+        image: '/images/portfolio/doanChuyenNganh.jpg'
+        
+        description: 'Website từ thiện là một trang web từ thiện trực tuyến được thành lập vào năm 2024 tại Thành phố Hồ Chí Minh, Việt Nam. Trang web chuyên cung cấp thông tin về các chương trình từ thiện, giúp kết nối những tấm lòng hảo tâm với các dự án hỗ trợ cộng đồng. Từ việc hỗ trợ trẻ em nghèo, người vô gia cư, đến những bệnh nhân có hoàn cảnh khó khăn, Triple Trouble mang đến cơ hội cho mọi người tham gia đóng góp và theo dõi sự thay đổi tích cực. Với sứ mệnh xây dựng một cộng đồng sẻ chia, trang web cung cấp nền tảng tiện lợi và minh bạch để người dùng dễ dàng đóng góp, giúp đỡ và làm cho xã hội trở nên tốt đẹp hơn.'
+        status: 'Hoàn thành'
+        tags:
+          - books
+          - Website
+     
+  # portfolio category
+  - title: Tìm hiểu
+    description: 'Tất cả dự án tìm hiểu của tôi'
+    portfolioitem:
+      - name: Web từ thiện
+        description: 'Dự án "Website Học Trực Tuyến" là một nền tảng học tập trực tuyến tiên tiến, mang đến một trải nghiệm học tập linh hoạt và tiện lợi cho người dùng. Website sẽ cung cấp các khóa học đa dạng, từ lý thuyết đến thực hành, giúp học viên có thể học hỏi mọi lúc, mọi nơi. Các tính năng như bài giảng video, tài liệu học tập, bài kiểm tra và đánh giá học viên sẽ giúp tạo ra môi trường học tập hiệu quả, dễ dàng tiếp cận và đáp ứng nhu cầu học tập cá nhân của mỗi người.
+Ngoài ra, website còn tích hợp các công cụ hỗ trợ cộng đồng, như diễn đàn thảo luận và tính năng trao đổi trực tiếp giữa giảng viên và học viên, giúp người dùng trao đổi kiến thức và nâng cao kỹ năng. Dự án này không chỉ hỗ trợ người học mà còn tạo cơ hội cho các giảng viên và tổ chức giáo dục, giúp họ mở rộng tầm ảnh hưởng và tiếp cận được đông đảo học viên, thúc đẩy việc học tập và nâng cao kỹ năng cho cộng đồng.'
+        tags:
+          - Học tập
+          - Website
